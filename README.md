@@ -40,16 +40,16 @@ Here are some ideas to get you started:
   <strong>Check out my work below!</strong>
   <br><br>
   <a href="https://github.com/SuvanCheng">
-    <img src="https://badges.pufler.dev/visits/SuvanCheng/SuvanCheng?style=flat-square&color=black&logo=github">
+    <img src="https://badges.pufler.dev/visits/SuvanCheng/SuvanCheng?style=flat-square&color=green&logo=github">
   </a>
   <a href="https://github.com/SuvanCheng">
-    <img src="https://badges.pufler.dev/years/SuvanCheng?style=flat-square&color=black&logo=github">
+    <img src="https://badges.pufler.dev/years/SuvanCheng?style=flat-square&color=green&logo=github">
   </a>
   <a href="https://github.com/SuvanCheng?tab=repositories">
-    <img src="https://badges.pufler.dev/repos/SuvanCheng?style=flat-square&color=black&logo=github">
+    <img src="https://badges.pufler.dev/repos/SuvanCheng?style=flat-square&color=green&logo=github">
   </a>
   <a href="https://gist.github.com/SuvanCheng">
-    <img src="https://badges.pufler.dev/gists/SuvanCheng?style=flat-square&color=black&logo=github">
+    <img src="https://badges.pufler.dev/gists/SuvanCheng?style=flat-square&color=green&logo=github">
   </a>
   <a href="https://github.com/SuvanCheng">
     <img src="https://badges.pufler.dev/commits/monthly/SuvanCheng?style=flat-square&color=green&logo=github">
@@ -67,7 +67,10 @@ Here are some ideas to get you started:
 **Languages and Frameworks**
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" alt="C++" title="C++"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" title="Python"></code>
+<code><img height="20" src="https://www.madebymikal.com/wp-content/uploads/2018/04/golang.png" alt="Go" title="Go"></code>
+<code><img height="20" src="https://miro.medium.com/max/512/1*ztqS5rRI29GHxZa6uPF2UA.png" alt="Python" title="Python"></code>
+<code><img height="20" src="https://aws1.discourse-cdn.com/business5/uploads/rust_lang/original/2X/e/e260a60b8dca4dae6ce7db98c45bb5008e6fdc62.png" alt="Rust" title="Rust"></code>
+<code><img height="20" src="https://cdn.iconscout.com/icon/free/png-256/javascript-23-1174949.png" alt="JavaScript" title="JavaScript"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/json/json.png" alt="JSON" title="JSON"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git" title="Git"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="Docker" title="Docker"></code>
@@ -82,9 +85,8 @@ Here are some ideas to get you started:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vim/vim.png" alt="Vim" title="Vim"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/markdown/markdown.png" alt="Markdown" title="MarkDown"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/matlab/matlab.png" alt="Matlab" title="Matlab"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png" alt="Ubuntu" title="Ubuntu"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/macos/macos.png" alt="MacOS" title="MacOS"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" alt="Linux" title="Linux"></code>
+<code><img height="20" src="https://i.stack.imgur.com/tLUsn.png" alt="MacOS" title="MacOS"></code>
+<code><img height="20" src="https://cdn.iconscout.com/icon/free/png-256/linux-3628892-3030032.png" alt="Linux" title="Linux"></code>
 
 <br>
 
