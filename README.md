@@ -89,26 +89,3 @@ Here are some ideas to get you started:
 <code><img height="20" src="https://cdn.iconscout.com/icon/free/png-256/linux-3628892-3030032.png" alt="Linux" title="Linux"></code>
 
 <br>
-
-📊 **This Week I Spent My Time On:**
-<!--START_SECTION:waka-->
-```text
-C++        5 hrs 2 mins    ██████████████░░░░░░░░░░░   56.51 % 
-PyTorch    1 hr 11 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.39 % 
-Python     1 hr 7 mins     ███░░░░░░░░░░░░░░░░░░░░░░   12.61 % 
-Markdown   34 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.44 % 
-JSON       17 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
-Others     38 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.82 %
-```
-<!--END_SECTION:waka-->
-
-If you like what I do, maybe consider buying me a ☕ coffee/tea or 🍰 cake please 🥺👉👈  
-
-<a href="https://SuvanCheng.github.io/sponsor.html" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
-
----
-
-🚧 **My Todoist Stats: ⬇️**
-<!--
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![PaperWeeklyAI](https://github-readme-stats.vercel.app/api/pin/?username=SuvanCheng&repo=PaperWeeklyAI)](https://github.com/SuvanCheng/PaperWeeklyAI) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Surface-Defect-Detection](https://github-readme-stats.vercel.app/api/pin/?username=SuvanCheng&repo=Surface-Defect-Detection)](https://github.com/SuvanCheng/Surface-Defect-Detection)
--->
